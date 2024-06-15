@@ -15,8 +15,8 @@ Just practicing with Django.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/kinworkit/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/kinworkit/CarListing_Backend.git
+    cd CarListing_Backend
     ```
 
 2. **Create and activate a virtual environment:**
